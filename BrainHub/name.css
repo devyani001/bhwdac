@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+24+Charted&display=swap');
+
+div{
+    /* background:transparent; */
+    color: rgb(44, 44, 39);
+    font-family: "Jacquard 24 Charted", system-ui;
+}    
